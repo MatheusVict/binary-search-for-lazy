@@ -1,7 +1,5 @@
 package io.matheusvictor;
 
-import java.util.Scanner;
-
 /**
  * O(log n)
  */
